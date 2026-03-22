@@ -1,6 +1,7 @@
 # ☠️ Dr.Doom — Attention Reclamation System
 
 > *"We're turning attention into a shared, visible resource — so AI stops stealing it and starts working for you."*
+> 🚀 **Live Demo:** [https://dr-doom-kappa.vercel.app](https://dr-doom-kappa.vercel.app)
 
 ## 🏆 Hackathon Track
 **Attention** — NYU Hackathon 2026
