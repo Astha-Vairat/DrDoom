@@ -134,7 +134,10 @@ All product design, application logic, UI, and AI prompt engineering is original
 
 ## 👥 Team
 
-- **Astha Vairat** — NYU (aav7237@nyu.edu)
+- **Astha Vairat** — aav7237@nyu.edu
+- **Chaitya Daga** — cd3983@nyu.edu
+- **Vedant Brambhatt** — Brambhatt.Vedant@gmail.com
+ 
 
 ---
 
